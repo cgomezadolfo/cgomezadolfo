@@ -45,21 +45,47 @@ Generar **soluciones digitales** robustas con JavaScript y desarrollo móvil mul
 
 ## 🎯 Especialidades
 
-```javascript
-const adolfo = {
-  code: ["JavaScript", "TypeScript", "PHP", "Java"],
-  technologies: {
-    frontend: ["React", "HTML5", "CSS3"],
-    mobile: ["React Native"],
-    backend: ["Spring Boot", "Node.js"],
-    databases: ["PostgreSQL", "MySQL"],
-    ecommerce: ["WordPress", "Shopify", "MercadoLibre API"]
-  },
-  cybersecurity: ["Ethical Hacking", "Penetration Testing", "Security Audits"],
-  systems: ["Linux", "Kali Linux", "Parrot OS"],
-  currentFocus: "Mobile development & cybersecurity"
-};
-```
+<table>
+<tr>
+<td>
+
+### 💻 **Lenguajes**
+- JavaScript / TypeScript
+- PHP
+- Java
+
+### 🎨 **Frontend & Mobile**  
+- React / React Native
+- HTML5 / CSS3
+
+</td>
+<td>
+
+### ⚙️ **Backend & DB**
+- Spring Boot
+- Node.js
+- PostgreSQL / MySQL
+
+### 🛒 **E-commerce**
+- WordPress / Shopify
+- MercadoLibre API
+
+</td>
+<td>
+
+### 🔐 **Cybersecurity**
+- Ethical Hacking
+- Penetration Testing
+- Security Audits
+
+### 🐧 **Sistemas**
+- Linux / Kali / Parrot OS
+
+</td>
+</tr>
+</table>
+
+### 🎯 **Enfoque Actual:** Desarrollo móvil multiplataforma y ciberseguridad
 
 ---
 
@@ -72,8 +98,10 @@ const adolfo = {
 - **Integraciones avanzadas** con API de MercadoLibre
 
 ### 🎓 **Educación & Mentoría**
-- **Instructor de JavaScript** en bootcamp
+- **Instructor de JavaScript** en un bootcamp
+- **Ayudante de JavaScript** en otro Bootcamp 
 - **Ayudante técnico** en bootcamp de JavaScript
+- **Certificado en Cybersecurity for Business**
 - Mentor en desarrollo web y tecnologías modernas
 
 ### 🔒 **Ethical Hacking**
