@@ -47,8 +47,8 @@ Generar **soluciones digitales** robustas con JavaScript y desarrollo móvil mul
 
 ```javascript
 const adolfo = {
-  código: ["JavaScript", "TypeScript", "PHP", "Java"],
-  tecnologías: {
+  code: ["JavaScript", "TypeScript", "PHP", "Java"],
+  technologies: {
     frontend: ["React", "HTML5", "CSS3"],
     mobile: ["React Native"],
     backend: ["Spring Boot", "Node.js"],
@@ -56,8 +56,8 @@ const adolfo = {
     ecommerce: ["WordPress", "Shopify", "MercadoLibre API"]
   },
   cybersecurity: ["Ethical Hacking", "Penetration Testing", "Security Audits"],
-  sistemas: ["Linux", "Kali Linux", "Parrot OS"],
-  currentFocus: "Desarrollo móvil multiplataforma y ciberseguridad"
+  systems: ["Linux", "Kali Linux", "Parrot OS"],
+  currentFocus: "Mobile development & cybersecurity"
 };
 ```
 
