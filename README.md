@@ -8,10 +8,10 @@
 
 Soy un **Desarrollador Full Stack** y **Hacker Ético** apasionado por crear soluciones digitales innovadoras. Actualmente finalizando mi **Ingeniería en Informática** y con amplia experiencia en desarrollo web y móvil multiplataforma.
 
-🔹 **Trabajo en:** Diversas Empresas actualmente  Sence, Corp. ed San Sebastián, Systemlabs y CentroContable
-🔹 **Servicios:** Desarrollo de aplicaciones web, mobile, analisis de datos IA y Ciberseguridad.
-🔹 **Educación:** Contador Publico Auditor, Tecnico Analista Programador y Actualmente finalizando Ing en Ciberseguridad. Full Stack Engineer CC USA.  
-🔹 **Especialidad:** Desarrollo web y movil con React Native y E-commerce con wordpress y shopify.
+* 🔹 **Trabajo en:** Diversas empresas actualmente (Sence, Corp. Ed. San Sebastián, Systemlabs y CentroContable).
+* 🔹 **Servicios:** Desarrollo de aplicaciones web, mobile, análisis de datos IA y Ciberseguridad.
+* 🔹 **Educación:** Contador Público Auditor, Técnico Analista Programador y actualmente finalizando Ing. en Ciberseguridad (Full Stack Engineer CC USA).
+* 🔹 **Especialidad:** Desarrollo web y móvil con React Native y E-commerce con WordPress y Shopify.
 
 ### 💡 Mi Pasión
 Generar **soluciones digitales** robustas con JavaScript, TypeScript, NextJS y desarrollo móvil multiplataforma. Cuando no estoy programando, me dedico al ethical hacking o disfruto de la naturaleza completamente desconectado 🌲.
